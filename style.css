@@ -1,0 +1,15 @@
+.ppsuika-container{
+  position:relative;
+  padding-bottom:56.25%;
+  padding-top:30px;height:0;
+}
+.ppsuika-container iframe,
+.ppsuika-container object,
+.ppsuika-container embed {
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  border:none;
+  overflow:hidden;
+}
